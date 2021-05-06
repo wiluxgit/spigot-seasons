@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Craftbukkit">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/dev/spigot/_buildtools/CraftBukkit/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
