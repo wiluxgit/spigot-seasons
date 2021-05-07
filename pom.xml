@@ -77,9 +77,9 @@
                     <archive>
                         <manifestEntries>
                             <Main-Class>me.wilux.spigot_seasons.SpigotSeasons</Main-Class>
-                            <Implementation-Title>ProtocolLib</Implementation-Title>
+                            <Implementation-Title>SpigotSeasons</Implementation-Title>
                             <Implementation-Version>${project.fullVersion}</Implementation-Version>
-                            <Implementation-Vendor>dmulloy2</Implementation-Vendor>
+                            <Implementation-Vendor>wilux</Implementation-Vendor>
                         </manifestEntries>
                     </archive>
                     <finalName>${project.name}</finalName>
@@ -114,6 +114,13 @@
             <artifactId>ProtocolLib</artifactId>
             <version>4.6.0</version>
             <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>me.lucko</groupId>
+            <artifactId>commodore</artifactId>
+            <version>1.9</version>
+            <scope>compile</scope>
         </dependency>
 
         <dependency>

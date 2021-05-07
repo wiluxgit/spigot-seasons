@@ -7,7 +7,6 @@ import com.comphenix.protocol.events.PacketContainer;
 import com.comphenix.protocol.events.PacketEvent;
 import com.comphenix.protocol.reflect.StructureModifier;
 import com.comphenix.protocol.wrappers.WrappedChatComponent;
-import me.wilux.blockshelf_playground.BlockshelfPlayground;
 import me.wilux.spigot_seasons.SpigotSeasons;
 import org.bukkit.Bukkit;
 import org.bukkit.NamespacedKey;

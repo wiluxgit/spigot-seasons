@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Blockshelf-Playground.iml" filepath="$PROJECT_DIR$/Blockshelf-Playground.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BlockshelfPlayground.iml" filepath="$PROJECT_DIR$/BlockshelfPlayground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpigotSeasons.iml" filepath="$PROJECT_DIR$/SpigotSeasons.iml" />
     </modules>
   </component>
 </project>

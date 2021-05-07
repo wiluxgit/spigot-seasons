@@ -1,0 +1,10 @@
+main: me.wilux.spigot_seasons.SpigotSeasons
+name: SpigotSeasons
+version: 0.1
+authors: [wilux]
+
+api-version: 1.13
+depend: [ProtocolLib]
+
+commands:
+  season:

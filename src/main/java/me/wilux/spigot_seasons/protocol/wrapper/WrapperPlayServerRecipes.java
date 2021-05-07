@@ -1,4 +1,4 @@
-package me.wilux.blockshelf_playground.protocolwrapper;
+package me.wilux.spigot_seasons.protocol.wrapper;
 
 /**
  * This file is part of PacketWrapper.

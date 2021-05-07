@@ -1,4 +1,4 @@
-package me.wilux.blockshelf_playground.protocolwrapper;
+package me.wilux.spigot_seasons.protocol.wrapper;
 
 import com.comphenix.protocol.PacketType;
 import com.comphenix.protocol.events.PacketContainer;

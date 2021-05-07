@@ -1,4 +1,4 @@
-package me.wilux.spigot_seasons;
+package me.wilux.spigot_seasons.protocol;
 
 import com.comphenix.protocol.PacketType;
 import com.comphenix.protocol.events.ListenerPriority;
@@ -7,10 +7,12 @@ import com.comphenix.protocol.events.PacketContainer;
 import com.comphenix.protocol.events.PacketEvent;
 import com.comphenix.protocol.wrappers.nbt.NbtBase;
 import com.comphenix.protocol.wrappers.nbt.NbtCompound;
+import me.wilux.spigot_seasons.SpigotSeasons;
+import me.wilux.spigot_seasons.protocol.wrapper.WrapperPlayServerMapChunk;
 
 import java.util.List;
 
-import static me.wilux.spigot_seasons._delete_nmsblocks.UnusedProtocol.printAllEventProperties;
+import static me.wilux.spigot_seasons.protocol.UnusedProtocol.printAllEventProperties;
 
 public class PacketTesting {
     //public static PacketContainer superBadUnsafeRecipesAtBoot;

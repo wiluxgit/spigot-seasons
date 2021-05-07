@@ -1,4 +1,4 @@
-package me.wilux.blockshelf_playground.protocolwrapper;
+package me.wilux.spigot_seasons.protocol.wrapper;
 /**
  * PacketWrapper - ProtocolLib wrappers for Minecraft packets
  * Copyright (C) dmulloy2 <http://dmulloy2.net>
